@@ -1,10 +1,10 @@
 
 :root{
-/* catppuccin */
-/* --main-bg:#11111b; */
-/* --main-bg2:#181825; */
-/* --main-fg:#b4befe; */
-/* --main-fg2:#cba6f7; */
+catppuccin 
+--main-bg:#11111b; 
+--main-bg2:#181825; 
+--main-fg:#b4befe; 
+--main-fg2:#cba6f7;
 /* rosepine */
 /* --main-bg:#191724; */
 /* --main-bg2:#1f1d2e; */
@@ -30,11 +30,11 @@
 /* --main-bg2:#3b4252; */
 /* --main-fg:#eceff4; */
 /* --main-fg2:#88c0d0; */
-Decay-Green 
+/* Decay-Green 
 --main-bg:#0f0f0f;
 --main-bg2:#1a1a1a;
 --main-fg:#b4b4b4;
---main-fg2:#00ff00;
+--main-fg2:#00ff00; */
 };
 
 * {
